@@ -1,0 +1,6 @@
+{
+  "name": "Animal Rescue",
+  "description": "Explore a stylized 3D Forest to find and rescue lost animals in this cozy 2.5D perspective game using high frame-rate virtual joystick analog controls!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
